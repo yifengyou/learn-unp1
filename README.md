@@ -20,6 +20,7 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 * GitHub地址:<https://github.com/yifengyou/learn-unp1>
 
+* 书籍官方站点:<http://www.kohala.com/start/>
 
 ## 参考书目
 

@@ -1,3 +1,0 @@
-This directory contains the library files that do *not* #include unp.h.
-The intent is that these functions can stand alone, without the rest
-of the code from the book.

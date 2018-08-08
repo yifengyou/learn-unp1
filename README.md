@@ -23,8 +23,6 @@ Bug report, questions and discussion are welcome, you can post an issue or pull 
 
 ## 参考书目
 
-> 《《UNIX网络编程卷1+卷2》(The Linux Programming Interface)
-
 ![1533732492938.png](image/1533732492938.png)
 
 《UNIX网络编程卷1：套接字联网API（第3版）》是一部UNIX网络编程的经典之作！书中全面深入地介绍了如何使用套接字API进行网络编程。全书不但介绍了基本编程内容，还涵盖了与套接字编程相关的高级主题，对于客户/服务器程序的各种设计方法也作了完整的探讨，最后还深入分析了流这种设备驱动机制。
